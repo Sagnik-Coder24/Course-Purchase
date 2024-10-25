@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Complete IOS dev",
+    "price": 199
+  },
+  {
+    "name": "Complete JAVA dev",
+    "price": 99
+  },
+  {
+    "name": "Complete SQL dev",
+    "price": 109
+  },
+  {
+    "name": "Complete React dev",
+    "price": 259
+  },
+  {
+    "name": "Complete Python dev",
+    "price": 299
+  },
+  {
+    "name": "Complete DevOPS",
+    "price": 399
+  }
+]
